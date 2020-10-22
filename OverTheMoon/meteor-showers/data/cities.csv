@@ -1,0 +1,257 @@
+city,latitude,country
+Abu Dhabi,24.47,United Arab Emirates
+Abuja,9.07,Nigeria
+Accra,5.55,Ghana
+Adamstown,-25.07,Pitcairn Islands
+Addis Ababa,9.02,Ethiopia
+Algiers,36.77,Algeria
+Alofi,-19.07,Niue
+Amman,31.93,Jordan
+Amsterdam,52.37,Netherlands
+Andorra la Vella,42.5,Andorra
+Ankara,39.87,Turkey
+Antananarivo,-18.93,Madagascar
+Apia,-13.83,Samoa
+Ashgabat,37.93,Turkmenistan
+Asmara,15.33,Eritrea
+Asuncion,-25.27,Paraguay
+Athens,37.97,Greece
+Avarua,-21.2,Cook Islands
+Baghdad,33.33,Iraq
+Baku,40.38,Azerbaijan
+Bamako,12.65,Mali
+Bandar Seri Begawan,4.88,Brunei
+Bangkok,13.75,Thailand
+Bangui,4.37,Central African Republic
+Banjul,13.45,Gambia
+Basseterre,17.3,Saint Kitts and Nevis
+Beijing,39.9,China
+Beirut,33.88,Lebanon
+Belgrade,44.82,Serbia
+Belmopan,17.25,Belize
+Berlin,52.52,Germany
+Bern,46.95,Switzerland
+Bishkek,42.87,Kyrgyzstan
+Bissau,11.85,Guinea-Bissau
+Bloemfontein(judicial),-29.12,South Africa
+Bogota,4.58,Colombia
+Brasilia,-15.78,Brazil
+Bratislava,48.13,Slovakia
+Brazzaville,-4.27,Republic of the Congo
+Bridgetown,13.1,Barbados
+Brussels,50.85,Belgium
+Bucharest,44.42,Romania
+Budapest,47.47,Hungary
+Buenos Aires,-34.6,Argentina
+Cairo,30.05,Egypt
+Canberra,-35.3,Australia
+Cape Town(legislative),-33.92,South Africa
+Caracas,10.5,Venezuela
+Castries,14.02,Saint Lucia
+Cayenne,4.92,French Guiana
+Charlotte Amalie,18.35,United States Virgin Islands
+Chi-in-u,47,Moldova
+Conakry,9.52,Guinea
+Copenhagen,55.67,Denmark
+Dakar,14.68,Senegal
+Damascus,33.5,Syria
+Dhaka,23.73,Bangladesh
+Dili,-8.57,East Timor (Timor-Leste)
+Djibouti,11.58,Djibouti
+Dodoma(official),-6.17,Tanzania
+Dar es Salaam(former capital; some government offices remaining),-6.17,Tanzania
+Doha,25.28,Qatar
+Douglas,54.13,Isle of Man
+Dublin,53.33,Ireland
+Dushanbe,38.53,Tajikistan
+Edinburgh of the Seven Seas,-37.07,Tristan da Cunha
+El Aaiun(declared),27.15,Sahrawi Arab Democratic Republic
+Episkopi Cantonment,34.67,Akrotiri and Dhekelia
+Flying Fish Cove,-10.42,Christmas Island
+Freetown,8.48,Sierra Leone
+Funafuti,-8.52,Tuvalu
+Gaborone,-24.65,Botswana
+George Town,19.3,Cayman Islands
+Georgetown,-7.92,Ascension Island
+Georgetown,6.8,Guyana
+Gibraltar,36.13,Gibraltar
+Gitega,-3.43,Burundi
+Guatemala City,14.6,Guatemala
+Gustavia,17.88,Saint Barthelemy
+Hagatna,13.47,Guam
+Hamilton,32.28,Bermuda
+Hanga Roa,-27.15,Easter Island
+Hanoi,21.03,Vietnam
+Harare,-17.85,Zimbabwe
+Hargeisa,10,Somaliland
+Havana,23.13,Cuba
+Helsinki,60.17,Finland
+Honiara,-9.43,Solomon Islands
+Islamabad,33.72,Pakistan
+Jakarta,-6.2,Indonesia
+Jamestown,-15.92,Saint Helena
+Jerusalem(declared de facto),31.78,Israel
+Juba,4.85,South Sudan
+Kabul,34.53,Afghanistan
+Kampala,0.3,Uganda
+Kathmandu,27.7,Nepal
+Khartoum,15.63,Sudan
+Kigali,-1.93,Rwanda
+King Edward Point,-54.27,South Georgia and the South Sandwich Islands
+Kingston,17.98,Jamaica
+Kingston,-29.05,Norfolk Island
+Kingstown,13.15,Saint Vincent and the Grenadines
+Kinshasa,-4.32,Democratic Republic of the Congo
+Kuala Lumpur(official legislative and royal),3.13,Malaysia
+Putrajaya(administrative and judicial),3.13,Malaysia
+Kutaisi(legislative),42.25,Georgia
+Kuwait City,29.37,Kuwait
+Kiev,50.45,Ukraine
+Libreville,0.38,Gabon
+Lilongwe,-13.98,Malawi
+Lima,-12.03,Peru
+Lisbon,38.7,Portugal
+Ljubljana,46.05,Slovenia
+Lobamba(royal and legislative),-26.42,Eswatini(Swaziland)
+Lome,6.12,Togo
+London,51.5,United Kingdom
+Longyearbyen,78.2,Svalbard
+Luanda,-8.83,Angola
+Lusaka,-15.42,Zambia
+Luxembourg,49.6,Luxembourg
+Madrid,40.38,Spain
+Majuro,7.07,Marshall Islands
+Malabo,3.75,Equatorial Guinea
+Male,4.17,Maldives
+Managua,12.13,Nicaragua
+Manama,26.22,Bahrain
+Manila,14.58,Philippines
+Maputo,-25.97,Mozambique
+Marigot,18.07,Saint Martin
+Maseru,-29.3,Lesotho
+Mata-Utu,-13.28,Wallis and Futuna
+Mbabane(administrative),-26.32,Eswatini
+Mexico City,19.43,Mexico
+Minsk,53.9,Belarus
+Mogadishu,2.03,Somalia
+Monaco,43.72,Monaco
+Monrovia,6.3,Liberia
+Montevideo,-34.88,Uruguay
+Moroni,-11.68,Comoros
+Moscow,55.75,Russia
+Muscat,23.6,Oman
+Nairobi,-1.28,Kenya
+Nassau,25.07,Bahamas
+Naypyidaw,19.75,Myanmar
+N'Djamena,12.1,Chad
+New Delhi,28.6,India
+Ngerulmud,7.48,Palau
+Niamey,13.52,Niger
+Nicosia,35.17,Cyprus
+Nicosia,35.17,Northern Cyprus
+Nouakchott,18.1,Mauritania
+Noumea,-22.27,New Caledonia
+Nuku-alofa,-21.13,Tonga
+Nur-Sultan (Astana),51.17,Kazakhstan
+Nuuk,64.17,Greenland
+Oranjestad,12.52,Aruba
+Oslo,59.95,Norway
+Ottawa,45.42,Canada
+Ouagadougou,12.35,Burkina Faso
+Pago Pago,-14.27,American Samoa
+Palikir,6.92,Federated States of Micronesia
+Panama City,8.98,Panama
+Papeete,-17.53,French Polynesia
+Paramaribo,5.87,Suriname
+Paris,48.85,France
+Philipsburg,18.02,Sint Maarten
+Phnom Penh,11.55,Cambodia
+Plymouth(official),16.7,Monstserrat
+Brades Estate(de facto),16.7,Monstserrat
+Podgorica(official),42.43,Montenegro
+Cetinje(seat of the President),42.43,Montenegro
+Port Louis,-20.15,Mauritius
+Port Moresby,-9.5,Papua New Guinea
+Port Vila,-17.75,Vanuatu
+Port-au-Prince,18.53,Haiti
+Port of Spain,10.67,Trinidad and Tobago
+Porto-Novo(official),6.48,Benin
+Cotonou(de facto),6.48,Benin
+Prague,50.08,Czech Republic
+Praia,14.92,Cape Verde
+Pretoria(executive),-25.73,South Africa
+Pristina,42.67,Kosovo
+Pyongyang,39.02,North Korea
+Quito,-0.25,Ecuador
+Rabat,34.03,Morocco
+Reykjavik,64.13,Iceland
+Riga,56.93,Latvia
+Riyadh,24.63,Saudi Arabia
+Road Town,18.42,British Virgin Islands
+Rome,41.9,Italy
+Roseau,15.3,Dominica
+Saipan,15.17,Northern Mariana Islands
+San Jose,9.93,Costa Rica
+San Juan,18.45,Puerto Rico
+San Marino,43.93,San Marino
+San Salvador,13.68,El Salvador
+Sana'a,15.33,Yemen
+Santiago(official),-33.45,Chile
+Valparaiso(legislative),-33.45,Chile
+Santo Domingo,18.47,Dominican Republic
+Sao Tome,0.33,Sao Tome and Principe
+Sarajevo,43.87,Bosnia and Herzegovina
+Seoul,37.55,South Korea
+Singapore,1.28,Singapore
+Skopje,42,North Macedonia
+Sofia,42.7,Bulgaria
+Sri Jayawardenepura Kotte(official),6.9,Sri Lanka
+Colombo(former capital),6.9,Sri Lanka
+St. George's,12.05,Grenada
+St. Helier,49.18,Jersey
+St. John's,17.12,Antigua and Barbuda
+St. Peter Port,49.45,Guernsey
+St. Pierre,46.77,Saint Pierre and Miquelon
+Stanley,-51.68,Falkland Islands
+Stepanakert,39.8,Nagorno-Karabakh Republic
+Stockholm,59.32,Sweden
+Sucre(constitutional),-16.5,Bolivia
+La Paz(administrative),-16.5,Bolivia
+Sukhumi,43,Abkhazia
+Suva,-18.13,Fiji
+Taipei,25.03,Taiwan
+Tallinn,59.43,Estonia
+Tarawa,1.43,Kiribati
+Tashkent,41.27,Uzbekistan
+Tbilisi(official),41.72,Georgia
+Tegucigalpa,14.1,Honduras
+Tehran,35.68,Iran
+Thimphu,27.47,Bhutan
+Tirana,41.32,Albania
+Tiraspol,46.85,Transnistria
+Tokyo,35.68,Japan
+Torshavn,62,Faroe Islands
+Tripoli,32.9,Libya
+Tskhinvali,42.23,South Ossetia
+Tunis,36.8,Tunisia
+Ulan Bator,47.92,Mongolia
+Vaduz,47.13,Liechtenstein
+Valletta,35.88,Malta
+The Valley,18.22,Anguilla
+Vatican City,41.9,Vatican City
+Victoria,-4.62,Seychelles
+Vienna,48.2,Austria
+Vientiane,17.97,Laos
+Vilnius,54.68,Lithuania
+Warsaw,52.23,Poland
+Washington D.C.,38.9,United States
+Wellington,-41.28,New Zealand
+West Island,-12.18,Cocos (Keeling) Islands
+Willemstad,12.12,Curacao
+Windhoek,-22.57,Namibia
+Yamoussoukro(official),6.82,Ivory Coast
+Abidjan(former capital),6.82,Ivory Coast
+Yaounde,3.87,Cameroon
+Yaren(de facto),-0.53,Nauru
+Yerevan,40.18,Armenia
+Zagreb,45.82,Croatia

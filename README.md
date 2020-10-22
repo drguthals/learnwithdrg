@@ -2,6 +2,10 @@
 
 Welcome to Learn with Dr. G! My name is Sarah and my goal is to create approachable first steps into coding and software engineering. 
 
+## Where to Find Me
+
+I do a weekly show on [Microsoft's Channel 9](https://channel9.msdn.com/Shows/Learn-with-Dr-G), and I do bi-weekly Live Streams, which you can catch every other Tuesday from 3-3:55pm PT on [Learn TV](https://docs.microsoft.com/learn/tv)
+
 ## What is This?
 
 There is a lot you will find in this repo, including:
