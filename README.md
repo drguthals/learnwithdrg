@@ -8,7 +8,7 @@ I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](https://channel9
 - [My Twitch Channel (P T)](https://www.twitch.tv/drguthals)
 - [My YouTube Channel (P TB)](https://www.youtube.com/channel/UCgvODZ135iGUbhqE9bSjVSg)
 - [Learn TV (LT)](https://docs.microsoft.com/learn/tv)
-- [Twitch (T)](https://www.twitch.tv/microsoftdeveloper)
+- [Microsoft Developer Twitch (MD T)](https://www.twitch.tv/microsoftdeveloper)
 - [Microsoft Developer YouTube (MD YT)](https://www.youtube.com/microsoftdeveloper)
 - [Microsoft Reactor YouTube (R YT)](https://www.youtube.com/microsoftreactor)
 
@@ -16,8 +16,8 @@ I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](https://channel9
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|--------|---------|-----------|----------|--------|----------|
 | | | | | | 1 | 2 |
-| 3 | 4 | 5 - Using Python to Explore Space ([LT](https://docs.microsoft.com/learn/tv), [T](https://www.twitch.tv/microsoftdeveloper), [MD YT](https://www.youtube.com/watch?v=NcUreWUpQFo), [R YT](https://www.youtube.com/watch?v=0h6fDrew-r0) | 6 | 7 - Before the First Line of Code ([LT](https://docs.microsoft.com/learn/tv), [T](https://www.twitch.tv/microsoftdeveloper), [MD YT](https://www.youtube.com/watch?v=KfFKgn2NqGc), [R YT](https://www.youtube.com/watch?v=5EmJCrFkvR4) | 8 | 9 |
-| 10 | 11 | 12 - Classify Space Rocks with Python ([P T](https://www.twitch.tv/drguthals), [P YT](https://www.youtube.com/watch?v=jxCCC0a9Fw0), [LT](https://docs.microsoft.com/learn/tv), [T](https://www.twitch.tv/microsoftdeveloper), [MD YT](https://www.youtube.com/watch?v=XoHR4p8AO9o), [R YT](https://www.youtube.com/watch?v=elupyPBtXAo) | 13 | 14 | 15 | 16 |
+| 3 | 4 | 5 - Using Python to Explore Space ([LT](https://docs.microsoft.com/learn/tv), [MD T](https://www.twitch.tv/microsoftdeveloper), [MD YT](https://www.youtube.com/watch?v=NcUreWUpQFo), [R YT](https://www.youtube.com/watch?v=0h6fDrew-r0) | 6 | 7 | 8 | 9 |
+| 10 | 11 | 12 - Classify Space Rocks with Python ([P T](https://www.twitch.tv/drguthals), [P YT](https://www.youtube.com/watch?v=jxCCC0a9Fw0), [LT](https://docs.microsoft.com/learn/tv), [MD T](https://www.twitch.tv/microsoftdeveloper), [MD YT](https://www.youtube.com/watch?v=XoHR4p8AO9o), [R YT](https://www.youtube.com/watch?v=elupyPBtXAo) | 13 | 14 | 15 | 16 |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 | | | | | | |
