@@ -5,6 +5,8 @@ This mini-series follows along the Microsoft Learn modules all about Git, GitHub
 
 Check them out at [aka.ms/LearnWithDrG/WYDLIS](https://aka.ms/LearnWithDrG/WYDLIS).
 
+And don't forget to follow along with the Learn With Dr G video series at [aka.ms/LearnWithDrG/WYDLIS_videos](https://aka.ms/LearnWithDrG/WYDLIS_videos).
+
 ## Other useful resources
 
 - A short powerpoint to describe Git: [Coming Soon].
