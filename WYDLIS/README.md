@@ -9,4 +9,4 @@ And don't forget to follow along with the Learn With Dr G video series at [aka.m
 
 ## Other useful resources
 
-- A short powerpoint to describe Git: [https://github.com/sguthals/learnwithdrg/WYDLIS\IntroToGit_Recap.pdf].
+- [A short powerpoint to describe Git](https://github.com/sguthals/learnwithdrg/blob/main/WYDLIS/IntroToGit_Recap.pdf).
