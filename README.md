@@ -4,15 +4,7 @@ Welcome to Learn with Dr. G! My name is Sarah and my goal is to create approacha
 
 ## Where to Find Me
 
-Best place to find me is on Twitter [@drguthals](https://twitter.com/drguthals) and best place to find my content is on YouTube:
-- [Dr Guthals](https://www.youtube.com/channel/UCgvODZ135iGUbhqE9bSjVSg) - Focused on the adult developer, here you can find tech talks, panels/interviews, live streams, and more!
-- [We Can with Dr G](https://www.youtube.com/channel/UC-iq8A4aamvIWVf038rWcyw) - Focused on the younger developer, here you can find a lot of Minecraft, block-based coding, and intro level fun!
-
-For my day job, I do a weekly pre-recorded show on [Microsoft's Channel 9 (C9)](https://channel9.msdn.com/Shows/Learn-with-Dr-G), and weekly Live Streams, which you can catch every Tuesday from 3-3:55pm PT on:
-- [Learn TV (LT)](https://docs.microsoft.com/learn/tv)
-- [Microsoft Developer Twitch (MD T)](https://www.twitch.tv/microsoftdeveloper)
-- [Microsoft Developer YouTube (MD YT)](https://www.youtube.com/microsoftdeveloper)
-- [Microsoft Reactor YouTube (R YT)](https://www.youtube.com/microsoftreactor)
+Best place to find me is on Twitter [@drguthals](https://twitter.com/drguthals) and best place to find my content is on my [Talks with Dr G](https://guthals.com/talkswithdrg) repo!
 
 ## What is This?
 
@@ -28,4 +20,4 @@ If you have a question about something, open up an issue! I'd love to chat about
 
 Did you attend one of my talks? SHAWEET - check out my [Talks with Dr G](https://guthals.com/talkswithdrg) repo for resources I mention in talks!
 
-If you have a sample project that you want to share, let me know! I'd love to highlight it in a blog, or try it out myself in my [Build with Dr G](https://github.com/sguthals/talkswithdrg) repo and add some guides around it as I learn it too :) (Don't worry, I will of course credit you and link to your original work!)
+If you have a sample project that you want to share, let me know! I'd love to highlight it in a blog, or try it out myself in my [Build with Dr G](https://github.com/sguthals/buildwithdrg) repo and add some guides around it as I learn it too :) (Don't worry, I will of course credit you and link to your original work!)
