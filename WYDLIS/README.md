@@ -10,3 +10,8 @@ And don't forget to follow along with the Learn With Dr G video series at [aka.m
 ## Other useful resources
 
 - [A short powerpoint to describe Git](https://github.com/sguthals/learnwithdrg/blob/main/WYDLIS/IntroToGit_Recap.pdf).
+
+## Examples
+
+Wanted to show an example of adding in a picture in Markdown.
+![This is a screencapture of the Learn with Dr G stream on GitHub markdown](streamImage.png)
