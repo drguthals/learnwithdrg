@@ -15,3 +15,6 @@ And don't forget to follow along with the Learn With Dr G video series at [aka.m
 
 Wanted to show an example of adding in a picture in Markdown.
 ![This is a screencapture of the Learn with Dr G stream on GitHub markdown](streamImage.png)
+
+Here is another example:
+![streamImage](https://user-images.githubusercontent.com/1314285/110553593-16525b80-80ee-11eb-909f-3e2b31b980c1.png)
